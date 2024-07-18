@@ -1,9 +1,12 @@
 # FYP_Azzstornish_Shoe_Website
 E-commerce website called Azzstornish_Shoe with a appealing and good functional website. 
-/n
+
 First step: download XAMPP and import the database.sql
-/n
-second step: Click the FYP_Azzstornish_Shoe_Website/shoppers-gh-pages/ to go to home page and start ur review
+![image](https://github.com/user-attachments/assets/02f29150-9bf3-41bc-b596-dfd7742ce756)
+
+second step: Click the FYP_Azzstornish_Shoe_Website/shoppers-gh-pages/ to go to home page and start ur review:
+![image](https://github.com/user-attachments/assets/39072036-abde-48ee-9aa6-76480d40ce4f)
+
 Home Page: 
 ![image](https://github.com/user-attachments/assets/00faa7c8-77c3-47bc-a151-11edcdb62af8)
 
